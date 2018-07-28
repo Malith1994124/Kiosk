@@ -1,0 +1,123 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "00564c3be4e4c6c0120a9db254c17abfb3edb3b1"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Kiosk_V2/1.0.0": {
+        "dependencies": {
+          "Microsoft.Identity.Client": "1.0.304142221-alpha",
+          "NETStandard.Library": "2.0.3",
+          "Newtonsoft.Json": "11.0.2",
+          "Plugin.Permissions": "2.0.1",
+          "Xam.Plugin.Media": "3.0.1",
+          "Xamarin.Forms": "3.0.0.561731"
+        },
+        "runtime": {
+          "Kiosk_V2.dll": {}
+        }
+      },
+      "Microsoft.Identity.Client/1.0.304142221-alpha": {
+        "runtime": {
+          "lib/net45/Microsoft.Identity.Client.Platform.dll": {},
+          "lib/net45/Microsoft.Identity.Client.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Plugin.Permissions/2.0.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Plugin.Permissions.Abstractions.dll": {},
+          "lib/netstandard1.0/Plugin.Permissions.dll": {}
+        }
+      },
+      "Xam.Plugin.Media/3.0.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Plugin.Media.Abstractions.dll": {},
+          "lib/netstandard1.0/Plugin.Media.dll": {}
+        }
+      },
+      "Xamarin.Forms/3.0.0.561731": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {},
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {},
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kiosk_V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Identity.Client/1.0.304142221-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T4kd4b5IFxWDOaGdYi5ipnj6kSAV3Ym4dj6lxVmWQ6lMoAdOBgiMT4K+LAG/G+14GFK2pbO75XgwJbgT3ol6eg==",
+      "path": "microsoft.identity.client/1.0.304142221-alpha",
+      "hashPath": "microsoft.identity.client.1.0.304142221-alpha.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "Plugin.Permissions/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R+V3nsj9HB23y8QiopTMp9nATp3jDTbbLSY9Zz/ofizn3JQtJxxrRCBBMnQohsNcqpAvGdZ+DcGBTmU32wUJ2Q==",
+      "path": "plugin.permissions/2.0.1",
+      "hashPath": "plugin.permissions.2.0.1.nupkg.sha512"
+    },
+    "Xam.Plugin.Media/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g/FOs1yxjrHGlcVp4tNcSIAl92dazWxCLP2N1/h8P9h/eGsFj8uIgrJDZrtb1Laam2//4A8FyQy8kzOODWNGnA==",
+      "path": "xam.plugin.media/3.0.1",
+      "hashPath": "xam.plugin.media.3.0.1.nupkg.sha512"
+    },
+    "Xamarin.Forms/3.0.0.561731": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZnpuSybty6uZsgInJQD2QoYsjsdzPmu25EltSNJTnwgiQCW0MVZfwU6//jbt4Sf0ZfAiryi8MZFhU1I0NAP6Ew==",
+      "path": "xamarin.forms/3.0.0.561731",
+      "hashPath": "xamarin.forms.3.0.0.561731.nupkg.sha512"
+    }
+  }
+}

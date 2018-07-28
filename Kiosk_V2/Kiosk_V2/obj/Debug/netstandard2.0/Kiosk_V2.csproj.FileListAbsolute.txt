@@ -1,0 +1,14 @@
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\bin\Debug\netstandard2.0\Kiosk_V2.deps.json
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\bin\Debug\netstandard2.0\Kiosk_V2.dll
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\obj\Debug\netstandard2.0\Kiosk_V2.csprojAssemblyReference.cache
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\obj\Debug\netstandard2.0\Kiosk_V2.csproj.CoreCompileInputs.cache
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\obj\Debug\netstandard2.0\Kiosk_V2.AssemblyInfoInputs.cache
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\obj\Debug\netstandard2.0\Kiosk_V2.AssemblyInfo.cs
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\obj\Debug\netstandard2.0\AuthenticationSuccessfulPage.xaml.g.cs
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\obj\Debug\netstandard2.0\Emotion.xaml.g.cs
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\bin\Debug\netstandard2.0\Kiosk_V2.pdb
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\obj\Debug\netstandard2.0\Kiosk_V2.dll
+D:\Kiosk_V2\Kiosk_V2\Kiosk_V2\obj\Debug\netstandard2.0\Kiosk_V2.pdb
