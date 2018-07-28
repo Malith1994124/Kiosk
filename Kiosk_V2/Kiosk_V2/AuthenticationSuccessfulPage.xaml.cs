@@ -16,7 +16,7 @@ namespace Kiosk_V2
         public string UserId { get; set; }
         public string ExpiresOn { get; set; }
 
-      /*  public AuthenticationSuccessfulPage(AuthenticationResult authenticationResult)
+        public AuthenticationSuccessfulPage(AuthenticationResult authenticationResult)
         {
             InitializeComponent();
 
@@ -36,7 +36,7 @@ namespace Kiosk_V2
              App.SignUpSignInPolicy,
              false);
         }
-        */
+        
         private async void Button_Clicked(object sender, EventArgs e)
         {
             //await Navigation.PushAsync(new Emotion());

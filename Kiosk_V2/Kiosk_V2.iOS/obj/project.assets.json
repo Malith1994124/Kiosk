@@ -1040,11 +1040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.iOS\\Kiosk_V2.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2.iOS\\Kiosk_V2.iOS.csproj",
       "projectName": "Kiosk_V2.iOS",
-      "projectPath": "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.iOS\\Kiosk_V2.iOS.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2.iOS\\Kiosk_V2.iOS.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.iOS\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1061,8 +1061,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj": {
-              "projectPath": "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj"
+            "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj"
             }
           }
         }

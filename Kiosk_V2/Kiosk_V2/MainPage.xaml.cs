@@ -16,7 +16,7 @@ namespace Kiosk_V2
 		}
         public async void LoginButton_Clicked(object sender, EventArgs e)
         {
-           /* try
+            try
             {
                 var authenticationResult = await App.AuthenticationClient.AcquireTokenAsync(App.Scopes,
                     "",
@@ -31,7 +31,7 @@ namespace Kiosk_V2
             catch (Exception ex)
             {
                 await DisplayAlert("Error Authenticating", ex.Message, "OK");
-            }*/
+            }
         }
     }
 }

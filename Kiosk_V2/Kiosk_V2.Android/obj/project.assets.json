@@ -978,11 +978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.Android\\Kiosk_V2.Android.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2.Android\\Kiosk_V2.Android.csproj",
       "projectName": "Kiosk_V2.Android",
-      "projectPath": "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.Android\\Kiosk_V2.Android.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2.Android\\Kiosk_V2.Android.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.Android\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -999,8 +999,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj": {
-              "projectPath": "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj"
+            "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj"
             }
           }
         }

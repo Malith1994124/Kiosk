@@ -533,11 +533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj",
       "projectName": "Kiosk_V2",
-      "projectPath": "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Kiosk_V2\\Kiosk_V2\\Kiosk_V2\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Kiosk\\Kiosk_V2\\Kiosk_V2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
