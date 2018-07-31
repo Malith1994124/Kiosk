@@ -224,9 +224,4 @@ C:\Users\User\Desktop\Kiosk\Kiosk_V2\Kiosk_V2.Android\obj\Debug\linksrc\System.X
 C:\Users\User\Desktop\Kiosk\Kiosk_V2\Kiosk_V2.Android\obj\Debug\linksrc\System.Xml.pdb
 C:\Users\User\Desktop\Kiosk\Kiosk_V2\Kiosk_V2.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
 C:\Users\User\Desktop\Kiosk\Kiosk_V2\Kiosk_V2.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
-C:\Users\User\Desktop\Kiosk\Kiosk_V2\Kiosk_V2.Android\bin\Debug\Kiosk_V2.Android.dll
-C:\Users\User\Desktop\Kiosk\Kiosk_V2\Kiosk_V2.Android\obj\Debug\linksrc\Kiosk_V2.Android.dll.mdb
-C:\Users\User\Desktop\Kiosk\Kiosk_V2\Kiosk_V2.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
-C:\Users\User\Desktop\Kiosk\Kiosk_V2\Kiosk_V2.Android\obj\Debug\linksrc\Plugin.Media.dll.mdb
-C:\Users\User\Desktop\Kiosk\Kiosk_V2\Kiosk_V2.Android\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
-C:\Users\User\Desktop\Kiosk\Kiosk_V2\Kiosk_V2.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Administrator\Desktop\KioskM\Kiosk_V2\Kiosk_V2.Android\obj\Debug\Kiosk_V2.Android.csprojAssemblyReference.cache

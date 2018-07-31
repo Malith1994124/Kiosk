@@ -22,8 +22,14 @@
       },
       "Microsoft.Identity.Client/1.0.304142221-alpha": {
         "runtime": {
-          "lib/net45/Microsoft.Identity.Client.Platform.dll": {},
-          "lib/net45/Microsoft.Identity.Client.dll": {}
+          "lib/net45/Microsoft.Identity.Client.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.30414.2221"
+          },
+          "lib/net45/Microsoft.Identity.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.30414.2221"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -34,7 +40,10 @@
       },
       "Newtonsoft.Json/11.0.2": {
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
         }
       },
       "Plugin.Permissions/2.0.1": {
@@ -42,8 +51,14 @@
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
-          "lib/netstandard1.0/Plugin.Permissions.Abstractions.dll": {},
-          "lib/netstandard1.0/Plugin.Permissions.dll": {}
+          "lib/netstandard1.0/Plugin.Permissions.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard1.0/Plugin.Permissions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Xam.Plugin.Media/3.0.1": {
@@ -51,15 +66,30 @@
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
-          "lib/netstandard1.0/Plugin.Media.Abstractions.dll": {},
-          "lib/netstandard1.0/Plugin.Media.dll": {}
+          "lib/netstandard1.0/Plugin.Media.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard1.0/Plugin.Media.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Xamarin.Forms/3.0.0.561731": {
         "runtime": {
-          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {},
-          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {},
-          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {}
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
         }
       }
     }
